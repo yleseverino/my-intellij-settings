@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="br.com.graodire" />
+    <option name="mostRecentlyUsed" value="br.com.graodireto" />
     <option name="nonFavorites">
       <list>
-        <option value="br.com.graodire" />
         <option value="br.com.graodireto" />
+        <option value="br.com.graodire" />
         <option value="com" />
         <option value="com.example.white_label" />
       </list>
