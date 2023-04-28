@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="br.com.graodireto sqlite" />
+    <option name="mostRecentlyUsed" value="br.com.graodireto" />
     <option name="nonFavorites">
       <list>
+        <option value="br.com.graodireto" />
         <option value="br.com.graodireto sqlite" />
         <option value="br.com.graodireto " />
         <option value="com.c6bank.app  " />
         <option value="com.c6bank.app " />
-        <option value="br.com.graodireto" />
         <option value="br.com.graodire" />
         <option value="br.com.graodireto token  " />
         <option value="br.com.graodireto token" />
