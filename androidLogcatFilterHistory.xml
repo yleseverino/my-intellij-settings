@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="br.com.graodireto " />
+    <option name="mostRecentlyUsed" value="br.com.graodireto sqlite" />
     <option name="nonFavorites">
       <list>
+        <option value="br.com.graodireto sqlite" />
         <option value="br.com.graodireto " />
         <option value="br.com.graodire" />
         <option value="br.com.graodireto" />
